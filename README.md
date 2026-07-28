@@ -69,5 +69,3 @@ I'm a Computer Science student at Lagos State University, who is currently build
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cupcakes439&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
-<p align="center"><i> From <a href="https://github.com/cupcakes439">cupcakes439</a></i></p>
