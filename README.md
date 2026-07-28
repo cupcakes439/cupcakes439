@@ -50,7 +50,7 @@ Tools
 - 💻 Source Code: https://github.com/cupcakes439/Meenah
 
 ### Zeedah
-- 🌐 Live Demo: https://Zeedah.vercel.app
+- 🌐 Live Demo: https://zeedah.vercel.app
 - 💻 Source Code: https://github.com/cupcakes439/Zeedah
 ---
 
