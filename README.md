@@ -43,11 +43,9 @@ I'm a Computer Science student at Lagos State University, who is currently build
 
 ### Meenah
 - 🌐 Live Demo: https://meenah.vercel.app
-- 💻 Source Code: https://github.com/cupcakes439/Meenah
 
 ### Zeedah
 - 🌐 Live Demo: https://zeedah.vercel.app
-- 💻 Source Code: https://github.com/cupcakes439/Zeedah
 ---
 
 ### 🔗 Connect With Me
