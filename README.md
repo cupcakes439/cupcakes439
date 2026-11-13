@@ -17,7 +17,7 @@ I'm a Computer Science student at Lagos State University, who is currently build
 🤔 &nbsp;I'm looking for help with **internship**  
 💬 &nbsp;Ask me about **anything**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I love drinking coffee**
+⚡ &nbsp;Fun fact: **I love movies**
 
 ### 🛠️ Tech Stack
 
@@ -46,6 +46,9 @@ I'm a Computer Science student at Lagos State University, who is currently build
 
 ### Naija Meal Planner
 - 🌐 Live Demo: https://naijamealplanner.vercel.app
+
+### NACOS LASU (in progress)
+- 🌐 Live Demo: https://nacos-lasu-website.vercel.app 
 ---
 
 ### 🔗 Connect With Me
