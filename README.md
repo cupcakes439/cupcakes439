@@ -41,11 +41,11 @@ I'm a Computer Science student at Lagos State University, who is currently build
 
 ## Featured Work
 
-### Meenah
-- 🌐 Live Demo: https://meenah.vercel.app
+### AMS
+- 🌐 Live Demo: https://amingel-model-school.vercel.app
 
-### Zeedah
-- 🌐 Live Demo: https://zeedah.vercel.app
+### Naija Meal Planner
+- 🌐 Live Demo: https://naijamealplanner.vercel.app
 ---
 
 ### 🔗 Connect With Me
