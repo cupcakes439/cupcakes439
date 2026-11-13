@@ -17,7 +17,7 @@ I'm a Computer Science student at Lagos State University, who is currently build
 🤔 &nbsp;I'm looking for help with **internship**  
 💬 &nbsp;Ask me about **anything**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I love movies**
+⚡ &nbsp;Fun fact: **I love MCU movies**
 
 ### 🛠️ Tech Stack
 
